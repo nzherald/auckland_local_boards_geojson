@@ -1,0 +1,23 @@
+{
+  "name": "auckland_local_boards_geojson",
+  "version": "1.0.0",
+  "authors": [
+    "Caleb Tutty <caleb.tutty@nzherald.co.nz>"
+  ],
+  "description": "Auckland Local Board data as GeoJSON",
+  "keywords": [
+    "geojson",
+    "new zealand",
+    "census"
+  ],
+  "license": "Creative Commons Attribution 3.0 New Zealand",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
